@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='shamsi_date',
+    name='erpnext_persian_calendar',
     version='1.0.0',
     description='Jalali (Shamsi) Date Converter for ERPNext',
     author='Majid Farajian',

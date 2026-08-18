@@ -1,4 +1,4 @@
 include requirements.txt
 include license.txt
-recursive-include shamsi_date/public *
-recursive-include shamsi_date/templates *
+recursive-include erpnext_persian_calendar/public *
+recursive-include erpnext_persian_calendar/templates *
